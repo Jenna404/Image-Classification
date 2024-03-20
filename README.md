@@ -1,8 +1,5 @@
-# AI-in-Vistion-and-Text
-Explore the significance of AI in text and vision applications.
+In this project, we focus on implementing a function 'build_deep_nn' that trains and evaluates a deep learning classifier on the MNIST dataset.
 
-Use Keras, a very popular deep learning framework, in combination with Google Collaboratory as a cloud solution that uses Graphical Processing Units (GPUs) to speed up the task of image classification.
+The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems.
 
-Deep dive into the core elements of convolutional neural networks (CNNs) – convolution, pooling, and their implementation in Keras. 
-
-Design and build convolutional neural network architectures tailored to specific image classification 
+Then, we use 'keras_tuner' to define the optimal parameters of the network model.
